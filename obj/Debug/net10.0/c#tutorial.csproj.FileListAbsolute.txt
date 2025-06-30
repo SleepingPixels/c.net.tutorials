@@ -1,0 +1,15 @@
+C:\Users\jessa\code-practice\c#tutorial\bin\Debug\net10.0\c#tutorial.exe
+C:\Users\jessa\code-practice\c#tutorial\bin\Debug\net10.0\c#tutorial.deps.json
+C:\Users\jessa\code-practice\c#tutorial\bin\Debug\net10.0\c#tutorial.runtimeconfig.json
+C:\Users\jessa\code-practice\c#tutorial\bin\Debug\net10.0\c#tutorial.dll
+C:\Users\jessa\code-practice\c#tutorial\bin\Debug\net10.0\c#tutorial.pdb
+C:\Users\jessa\code-practice\c#tutorial\obj\Debug\net10.0\c#tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessa\code-practice\c#tutorial\obj\Debug\net10.0\c#tutorial.AssemblyInfoInputs.cache
+C:\Users\jessa\code-practice\c#tutorial\obj\Debug\net10.0\c#tutorial.AssemblyInfo.cs
+C:\Users\jessa\code-practice\c#tutorial\obj\Debug\net10.0\c#tutorial.csproj.CoreCompileInputs.cache
+C:\Users\jessa\code-practice\c#tutorial\obj\Debug\net10.0\c#tutorial.sourcelink.json
+C:\Users\jessa\code-practice\c#tutorial\obj\Debug\net10.0\c#tutorial.dll
+C:\Users\jessa\code-practice\c#tutorial\obj\Debug\net10.0\refint\c#tutorial.dll
+C:\Users\jessa\code-practice\c#tutorial\obj\Debug\net10.0\c#tutorial.pdb
+C:\Users\jessa\code-practice\c#tutorial\obj\Debug\net10.0\c#tutorial.genruntimeconfig.cache
+C:\Users\jessa\code-practice\c#tutorial\obj\Debug\net10.0\ref\c#tutorial.dll
